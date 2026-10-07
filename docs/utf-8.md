@@ -1,6 +1,9 @@
 <details>
 <summary>Click to expand it</summary>
-    > Hello!\n
-    > Do you want extra access?\n
-    > Just join us!\n
+    > Hello!
+
+    > Do you want extra access?
+
+    > Just join us!
+
 </details>
