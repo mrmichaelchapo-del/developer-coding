@@ -12,3 +12,5 @@
 - [ ] Task important 
 
 - [x] Task closed
+
+<input placeholder="Hello"></input>
