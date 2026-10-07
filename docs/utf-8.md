@@ -9,6 +9,6 @@
 
 </details>
 
-[ ] Task important 
+- [ ] Task important 
 
-[x] Task closed
+- [x] Task closed
