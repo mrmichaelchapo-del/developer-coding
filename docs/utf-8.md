@@ -8,3 +8,6 @@
 > Just join us!
 
 </details>
+
+[ ] Task important 
+[x] Task closed
